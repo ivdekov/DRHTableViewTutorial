@@ -63,15 +63,15 @@
 			isa = PBXGroup;
 			children = (
 				367A6D5F1D970A4D00810F0B /* AppDelegate.swift */,
+				367A6D771D976D9300810F0B /* DRHTableViewDataModel.swift */,
+				367A6D751D9710CD00810F0B /* DRHTableViewDataModelItem.swift */,
+				367A6D711D970BAE00810F0B /* DRHTableViewCell.swift */,
 				367A6D611D970A4D00810F0B /* DRHTableViewController.swift */,
+				367A6D721D970BAE00810F0B /* DRHTableViewCell.xib */,
 				367A6D631D970A4D00810F0B /* DRHTableViewController.storyboard */,
 				367A6D661D970A4D00810F0B /* Assets.xcassets */,
 				367A6D681D970A4D00810F0B /* LaunchScreen.storyboard */,
 				367A6D6B1D970A4D00810F0B /* Info.plist */,
-				367A6D711D970BAE00810F0B /* DRHTableViewCell.swift */,
-				367A6D721D970BAE00810F0B /* DRHTableViewCell.xib */,
-				367A6D751D9710CD00810F0B /* DRHTableViewDataModelItem.swift */,
-				367A6D771D976D9300810F0B /* DRHTableViewDataModel.swift */,
 			);
 			path = DRHTableViewTutorial;
 			sourceTree = "<group>";
@@ -316,6 +316,7 @@
 				367A6D701D970A4D00810F0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
